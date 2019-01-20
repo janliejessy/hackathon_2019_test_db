@@ -4,4 +4,11 @@
     "price": 23,
     "happiness_boost": 5,
     "item_img_url": ""
+}, 
+{
+	"item_type_id": 13,
+    "name": "dinosaur",
+    "price": 123,
+    "happiness_boost": 15,
+    "item_img_url": ""
 }
